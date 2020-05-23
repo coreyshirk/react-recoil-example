@@ -1,0 +1,33 @@
+.header {
+    margin: 0px;
+    background: rebeccapurple;
+    height: 100px;
+    padding: 10px;
+    text-align: right;
+  }
+  
+  .body {
+    margin: 0 auto;
+    background: lightgreen;
+    height: 400px;
+    padding: 0px;
+    text-align: center;
+  }
+  
+  .button {
+    height: 40px;
+    color: white;
+    background: sienna;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  html {
+    font-family: "Pangolin", cursive;
+  }
+  
+  .label {
+    color: red;
+    letter-spacing: 2px;
+    text-decoration: underline;
+  }
